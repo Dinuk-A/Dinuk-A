@@ -4,20 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinuka+Pramod!+👨‍💻;" />
 </div>
 
-
 ### 🎯 What I Do
 
 ⚙️ **QA Automation & Framework Design**  
-→ Architecting enterprise test frameworks • Writing automation scripts in Java • Ensuring software quality at scale
+→ Architecting enterprise test frameworks • Writing automation scripts in Java / TypeScript • Ensuring software quality at scale
 
 💻 **Full-Stack Engineering**  
-Build scalable, production-ready apps with Java Spring Boot, React, and modern databases
+→ Build production-ready applications • Develop RESTful APIs • Work with Java Spring Boot, React, MySQL and other modern frameworks
 
 🤖 **AI Automation & Agentic Workflows**  
-Create intelligent workflow automations with n8n and explore LangGraph for AI-driven agents
+→ Create intelligent workflow automations with n8n and explore LangGraph for AI-driven agents
 
 🚀 **DevOps-Driven Delivery**  
-Automate builds, testing, and deployments using Jenkins & cloud-powered pipelines
+→ Automate builds, testing, and deployments using Jenkins & cloud-powered pipelines
 
 ---
 > *I Code like a developer. Test like a perfectionist. Automate like the future is now.* 🚀
