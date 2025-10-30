@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00D4FF&height=120&section=header&text=QA%20Automation%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Workflow%20Architect&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=38" />
-
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinuka+Pramod!+👨‍💻;" />
 </div>
 
@@ -18,7 +17,7 @@
 🚀 **DevOps-Driven Delivery**  
 → Automate builds, testing & deployments • Integrate CI/CD pipelines with Jenkins • Leverage cloud infrastructure for scalable delivery
 
-> *I Code like a developer. Test like a perfectionist. Automate like the future is now.* 🚀
+`Sometimes I ponder: if the universe is code, am I debugging it, or just a line in it? 🌀💻`
 ---
 
 ### 🛠️ Tech Stack
@@ -47,7 +46,7 @@ class Dinuka extends QualityDrivenEngineer  {
 
 }
 ```
-> I build it 💻, test it ✅, and automate it 🤖 — delivering software that works flawlessly in production 🚀
+` I Code like a developer. Test like a perfectionist. Automate like the future is now. 🚀 `
 ---
 
 ### 📊 GitHub Stats
@@ -71,6 +70,6 @@ class Dinuka extends QualityDrivenEngineer  {
 
 <div align="center">
 
-**Building software that works. Testing software that matters. Automating what's repetitive.** ⚡
+
 
 </div>
