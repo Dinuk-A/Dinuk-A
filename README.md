@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00D4FF&height=110&section=header&text=QA%20Automation%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Workflow%20Architect&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=38" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00D4FF&height=100&section=header&text=QA%20Automation%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Workflow%20Architect&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinuka+Pramod!+👨‍💻;" />
 </div>
+
 
 
 🏢 **By Day:** QA Automation Engineer  
