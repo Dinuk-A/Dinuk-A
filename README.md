@@ -18,7 +18,6 @@
 🚀 **DevOps-Driven Delivery**  
 → Automate builds, testing & deployments • Integrate CI/CD pipelines with Jenkins • Leverage cloud infrastructure for scalable delivery
 
----
 > *I Code like a developer. Test like a perfectionist. Automate like the future is now.* 🚀
 ---
 
@@ -34,12 +33,12 @@ class Dinuka extends QualityDrivenEngineer  {
     frontend: ["React", "TypeScript", "JavaScript", "HTML/CSS", "Bootstrap"],
     databases: ["MySQL", "MongoDB"],
     testing: ["Selenium", "Playwright", "Rest Assured"],
-    automation: ["CI/CD", "N8N", "LangGraph", "API + UI Testing"],
+    automation: ["CI/CD", "N8N", "API + UI Testing"],
     cloud: ["AWS", "Jenkins"]
   };
   
   currentlyLearning() {
-    return ["Angular", "Advanced Python", "Docker", "Microservices"];
+    return ["Angular", "Advanced Python", "Docker", "Microservices", "LangGraph"];
   }
   
   dailyRoutine() {
@@ -59,7 +58,6 @@ class Dinuka extends QualityDrivenEngineer  {
 </div>
 
 ---
-
 
 ### 📫 Let's Connect
 
