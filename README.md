@@ -13,10 +13,10 @@
 → Build production-ready applications • Develop RESTful APIs • Work with Java Spring Boot, React, MySQL and other modern frameworks
 
 🤖 **AI Automation & Agentic Workflows**  
-→ Create intelligent workflow automations with n8n and explore LangGraph for AI-driven agents
+→ Design intelligent workflows • Automate processes with n8n • Explore LangGraph for AI-driven agents
 
 🚀 **DevOps-Driven Delivery**  
-→ Automate builds, testing, and deployments using Jenkins & cloud-powered pipelines
+→ Automate builds, testing & deployments • Integrate CI/CD pipelines with Jenkins • Leverage cloud infrastructure for scalable delivery
 
 ---
 > *I Code like a developer. Test like a perfectionist. Automate like the future is now.* 🚀
