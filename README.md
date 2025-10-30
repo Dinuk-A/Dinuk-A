@@ -5,28 +5,13 @@
 </div>
 
 
-
-
-🏢 **By Day:** QA Automation Engineer  
-→ Architecting enterprise test frameworks • Writing automation scripts in Java • Ensuring software quality at scale
-
-💻 **By Night:** Full-Stack Developer  
-→ Building web apps with Spring Boot & React • Crafting RESTful APIs • Solving real problems
-
-🤖 **Always:** AI Automation Explorer  
-→ Creating intelligent workflows with LangGraph & N8N • Teaching systems to think and adapt
-
----
-> *I Code like a developer. Test like a perfectionist. Automate like the future is now.* 🚀
----
-
 ### 🎯 What I Do
+
+⚙️ **QA Automation & Framework Design**  
+→ Architecting enterprise test frameworks • Writing automation scripts in Java • Ensuring software quality at scale
 
 💻 **Full-Stack Engineering**  
 Build scalable, production-ready apps with Java Spring Boot, React, and modern databases
-
-⚙️ **QA Automation & Framework Design**  
-Develop enterprise test automation using Selenium, REST Assured & CI/CD pipelines
 
 🤖 **AI Automation & Agentic Workflows**  
 Create intelligent workflow automations with n8n and explore LangGraph for AI-driven agents
@@ -35,7 +20,7 @@ Create intelligent workflow automations with n8n and explore LangGraph for AI-dr
 Automate builds, testing, and deployments using Jenkins & cloud-powered pipelines
 
 ---
-> I build it 💻, test it ✅, and automate it 🤖 — delivering software that works flawlessly in production 🚀
+> *I Code like a developer. Test like a perfectionist. Automate like the future is now.* 🚀
 ---
 
 ### 🛠️ Tech Stack
@@ -64,7 +49,7 @@ class Dinuka extends QualityDrivenEngineer  {
 
 }
 ```
-
+> I build it 💻, test it ✅, and automate it 🤖 — delivering software that works flawlessly in production 🚀
 ---
 
 ### 📊 GitHub Stats
