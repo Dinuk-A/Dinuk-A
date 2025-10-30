@@ -1,26 +1,43 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00D4FF&height=120&section=header&text=QA%20Automation%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Workflow%20Architect&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinuka+Pramod!+👨‍💻;" />
 </h1>
 
-## QA Automation Engineer • Full-Stack Developer • AI Workflow Architect
+🏢 **By Day:** QA Automation Engineer  
+→ Architecting enterprise test frameworks • Writing production Java code • Ensuring quality at scale
 
-I'm a software engineer who builds things that work—and proves they work at scale.
+💻 **By Night:** Full-Stack Developer  
+→ Building web apps with Spring Boot & React • Crafting RESTful APIs • Solving real problems
 
-**🏢 By Day:** Architecting enterprise test frameworks with Java, Selenium & CI/CD  
-**💻 By Night:** Building full-stack apps with Spring Boot, React & TypeScript  
-**🤖 Always:** Exploring AI automation with LangGraph & N8N
+🤖 **Always:** AI Automation Explorer  
+→ Creating intelligent workflows with LangGraph & N8N • Teaching systems to think and adapt
 
-> *Code like a dev. Test like a perfectionist. Automate like it's 2025.* 🚀
+**Translation:** I code like a developer, test like a perfectionist, and automate like I've seen the future.  
+Spoiler: It's awesome. 🚀
 
 ---
+> *Code like a developer. Test like a perfectionist. Automate like the future is now.* 🚀
+---
 
-### 💼 What I Bring
+### 🎯 What I Do
 
-**Full-Stack** → Java Spring Boot • React • TypeScript • RESTful APIs • MySQL/MongoDB  
-**QA & Automation** → Selenium • REST Assured • Jenkins CI/CD • Framework Architecture  
-**AI Workflows** → N8N • LangGraph • Python • Intelligent Agents  
-**DevOps** → Git • Maven • AWS • Docker • Pipeline Automation
+💻 **Full-Stack Engineering**  
+Build scalable, production-ready apps with Java Spring Boot, React, and modern databases
 
+⚙️ **QA Automation & Framework Design**  
+Develop enterprise test automation using Selenium, REST Assured & CI/CD pipelines
+
+🤖 **AI Automation & Agentic Workflows**  
+Create intelligent workflow automations with n8n and explore LangGraph for AI-driven agents
+
+🚀 **DevOps-Driven Delivery**  
+Automate builds, testing, and deployments using Jenkins & cloud-powered pipelines
+
+---
+> I build it 💻, test it ✅, and automate it 🤖 — delivering software that works flawlessly in production 🚀
 ---
 
 ### 🛠️ Tech Stack
