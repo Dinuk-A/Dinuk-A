@@ -1,15 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00D4FF&height=120&section=header&text=QA%20Automation%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Workflow%20Architect&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:00D4FF&height=120&section=header&text=QA%20Automation%20Engineer%20•%20Full-Stack%20Developer%20•%20AI%20Workflow%20Architect&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinuka+Pramod!+👨‍💻;" />
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dinuka+Pramod!+👨‍💻;" />
-</h1>
 
 
 
 🏢 **By Day:** QA Automation Engineer  
-→ Architecting enterprise test frameworks • Writing production Java code • Ensuring quality at scale
+→ Architecting enterprise test frameworks • Writing automation scripts in Java • Ensuring software quality at scale
 
 💻 **By Night:** Full-Stack Developer  
 → Building web apps with Spring Boot & React • Crafting RESTful APIs • Solving real problems
@@ -17,11 +16,8 @@
 🤖 **Always:** AI Automation Explorer  
 → Creating intelligent workflows with LangGraph & N8N • Teaching systems to think and adapt
 
-**Translation:** I code like a developer, test like a perfectionist, and automate like I've seen the future.  
-Spoiler: It's awesome. 🚀
-
 ---
-> *Code like a developer. Test like a perfectionist. Automate like the future is now.* 🚀
+> *I Code like a developer. Test like a perfectionist. Automate like the future is now.* 🚀
 ---
 
 ### 🎯 What I Do
